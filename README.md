@@ -35,9 +35,8 @@ Deployment: (Mention if using Render, Heroku, EC2, etc.)
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/product-scraper.git
+git clone https://github.com/thirukumaran22ravikumar/Scraping_Datas.git
 cd product-scraper/backend
-
 
 frontend project  - frontend (reactJs + vite + taiwind Css + node v22)
 1) change version node - v22
