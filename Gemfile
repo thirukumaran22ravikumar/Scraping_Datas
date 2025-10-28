@@ -53,4 +53,4 @@ group :development, :test do
   gem "rubocop-rails-omakase", require: false
 end
 
-gem "playwright-ruby-client", "~> 1.55"
+gem "playwright-ruby-client", "~> 1.56"
